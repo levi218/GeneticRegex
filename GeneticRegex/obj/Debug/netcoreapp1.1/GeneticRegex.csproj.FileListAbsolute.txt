@@ -1,0 +1,10 @@
+D:\GG_Drive\GeneticRegex\GeneticRegex\bin\Debug\netcoreapp1.1\GeneticRegex.deps.json
+D:\GG_Drive\GeneticRegex\GeneticRegex\bin\Debug\netcoreapp1.1\GeneticRegex.runtimeconfig.json
+D:\GG_Drive\GeneticRegex\GeneticRegex\bin\Debug\netcoreapp1.1\GeneticRegex.runtimeconfig.dev.json
+D:\GG_Drive\GeneticRegex\GeneticRegex\obj\Debug\netcoreapp1.1\GeneticRegex.csprojResolveAssemblyReference.cache
+D:\GG_Drive\GeneticRegex\GeneticRegex\obj\Debug\netcoreapp1.1\GeneticRegex.csproj.CoreCompileInputs.cache
+D:\GG_Drive\GeneticRegex\GeneticRegex\obj\Debug\netcoreapp1.1\GeneticRegex.AssemblyInfo.cs
+D:\GG_Drive\GeneticRegex\GeneticRegex\bin\Debug\netcoreapp1.1\GeneticRegex.dll
+D:\GG_Drive\GeneticRegex\GeneticRegex\bin\Debug\netcoreapp1.1\GeneticRegex.pdb
+D:\GG_Drive\GeneticRegex\GeneticRegex\obj\Debug\netcoreapp1.1\GeneticRegex.dll
+D:\GG_Drive\GeneticRegex\GeneticRegex\obj\Debug\netcoreapp1.1\GeneticRegex.pdb
